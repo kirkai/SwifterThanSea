@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-02-06T14:12:49.600-05:00
-  initializedAtString: 2022-02-06T14:12:49.600-05:00
+  lastUpdatedAtString: 2022-02-06T17:18:59.208-05:00
+  initializedAtString: 2022-02-06T15:33:18.277-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/kirkai/SwifterThanSea.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: Chris
+    tracking: 
   currentConfigBranch:
-    name: main
+    name: Chris
     remote:
-      name: origin
-      url: https://github.com/kirkai/SwifterThanSea.git
-    trackingBranch: main
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/kirkai/SwifterThanSea.git
