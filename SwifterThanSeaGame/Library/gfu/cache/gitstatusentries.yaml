@@ -13,12 +13,118 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-08T19:13:54.951-05:00
-  initializedAtString: 2022-02-08T18:45:19.246-05:00
+  lastUpdatedAtString: 2022-02-12T17:52:28.652-05:00
+  initializedAtString: 2022-02-12T17:50:36.297-05:00
   entries:
-  - path: SwifterThanSeaGame\Assets\Scripts.meta
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
+  - path: SwifterThanSeaGame\Assets\Animation.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation.meta
+    projectPath: Assets\Animation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\CaptainIdle.anim
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\CaptainIdle.anim
+    projectPath: Assets\Animation\CaptainIdle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\CaptainIdle.anim.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\CaptainIdle.anim.meta
+    projectPath: Assets\Animation\CaptainIdle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\CaptainMoving.anim
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\CaptainMoving.anim
+    projectPath: Assets\Animation\CaptainMoving.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\CaptainMoving.anim.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\CaptainMoving.anim.meta
+    projectPath: Assets\Animation\CaptainMoving.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\CaptainShoot.anim
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\CaptainShoot.anim
+    projectPath: Assets\Animation\CaptainShoot.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\CaptainShoot.anim.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\CaptainShoot.anim.meta
+    projectPath: Assets\Animation\CaptainShoot.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\Pirate Captain (Idle).controller
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\Pirate
+      Captain (Idle).controller
+    projectPath: Assets\Animation\Pirate Captain (Idle).controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\Pirate Captain (Idle).controller.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\Pirate
+      Captain (Idle).controller.meta
+    projectPath: Assets\Animation\Pirate Captain (Idle).controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\Pirate1 (Idle)_0.controller
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\Pirate1
+      (Idle)_0.controller
+    projectPath: Assets\Animation\Pirate1 (Idle)_0.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\Pirate1 (Idle)_0.controller.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\Pirate1
+      (Idle)_0.controller.meta
+    projectPath: Assets\Animation\Pirate1 (Idle)_0.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\PlayerIdle.anim
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\PlayerIdle.anim
+    projectPath: Assets\Animation\PlayerIdle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\PlayerIdle.anim.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\PlayerIdle.anim.meta
+    projectPath: Assets\Animation\PlayerIdle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\PlayerMoving.anim
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\PlayerMoving.anim
+    projectPath: Assets\Animation\PlayerMoving.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Animation\PlayerMoving.anim.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Animation\PlayerMoving.anim.meta
+    projectPath: Assets\Animation\PlayerMoving.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\MainScene.unity
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\MainScene.unity
+    projectPath: Assets\MainScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SwifterThanSeaGame\Assets\removelater.cs
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\removelater.cs
+    projectPath: Assets\removelater.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\removelater.cs.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\removelater.cs.meta
+    projectPath: Assets\removelater.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -26,191 +132,230 @@ MonoBehaviour:
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Scripts\PirateController.cs
     projectPath: Assets\Scripts\PirateController.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\Assets\Scripts\PirateController.cs.meta
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Scripts\PirateController.cs.meta
-    projectPath: Assets\Scripts\PirateController.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SwifterThanSeaGame\Assets\Square.png
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Square.png
+    projectPath: Assets\Square.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\APIUpdater\project-dependencies.graph
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+  - path: SwifterThanSeaGame\Assets\Square.png.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Square.png.meta
+    projectPath: Assets\Square.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate Captain (Idle).png
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate
+      Captain (Idle).png
+    projectPath: Assets\Tiles\Pirate Captain (Idle).png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate Captain (Idle).png.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate
+      Captain (Idle).png.meta
+    projectPath: Assets\Tiles\Pirate Captain (Idle).png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate Captain (Shoot).png
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate
+      Captain (Shoot).png
+    projectPath: Assets\Tiles\Pirate Captain (Shoot).png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate Captain (Shoot).png.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate
+      Captain (Shoot).png.meta
+    projectPath: Assets\Tiles\Pirate Captain (Shoot).png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate Captain (Walk).png
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate
+      Captain (Walk).png
+    projectPath: Assets\Tiles\Pirate Captain (Walk).png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate Captain (Walk).png.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate
+      Captain (Walk).png.meta
+    projectPath: Assets\Tiles\Pirate Captain (Walk).png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate1 (Idle).png.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate1
+      (Idle).png.meta
+    projectPath: Assets\Tiles\Pirate1 (Idle).png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate1 (Walk).png
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate1
+      (Walk).png
+    projectPath: Assets\Tiles\Pirate1 (Walk).png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Assets\Tiles\Pirate1 (Walk).png.meta
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Assets\Tiles\Pirate1
+      (Walk).png.meta
+    projectPath: Assets\Tiles\Pirate1 (Walk).png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SwifterThanSeaGame\Library\ArtifactDB
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\Artifacts\00\00cb60ea215470850a69857bdc7a1ddf
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\00\00cb60ea215470850a69857bdc7a1ddf
-    projectPath: Library\Artifacts\00\00cb60ea215470850a69857bdc7a1ddf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: SwifterThanSeaGame\Library\Artifacts\05\05b5a49fae1fcd7c334e5d3d4f8a7884
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\05\05b5a49fae1fcd7c334e5d3d4f8a7884
     projectPath: Library\Artifacts\05\05b5a49fae1fcd7c334e5d3d4f8a7884
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\0c\0cc1913c909796a79bb7a585ade3b1d8
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\0c\0cc1913c909796a79bb7a585ade3b1d8
-    projectPath: Library\Artifacts\0c\0cc1913c909796a79bb7a585ade3b1d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\12\12b8ce494fd67c49e8184d788349a44c
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\12\12b8ce494fd67c49e8184d788349a44c
-    projectPath: Library\Artifacts\12\12b8ce494fd67c49e8184d788349a44c
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+  - path: SwifterThanSeaGame\Library\Artifacts\10\1074d10cd09c6505915f0977a3e3e1e3
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\10\1074d10cd09c6505915f0977a3e3e1e3
+    projectPath: Library\Artifacts\10\1074d10cd09c6505915f0977a3e3e1e3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\2e\2e8d5498361f9f6b85d434f2eeb2430f
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\2e\2e8d5498361f9f6b85d434f2eeb2430f
-    projectPath: Library\Artifacts\2e\2e8d5498361f9f6b85d434f2eeb2430f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    projectPath: Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
+  - path: SwifterThanSeaGame\Library\Artifacts\1c\1cad25a0ade4b6520080d92c79c41614
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\1c\1cad25a0ade4b6520080d92c79c41614
+    projectPath: Library\Artifacts\1c\1cad25a0ade4b6520080d92c79c41614
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\32\32b1be7dc4b2bf621f8112b31f067296
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\32\32b1be7dc4b2bf621f8112b31f067296
-    projectPath: Library\Artifacts\32\32b1be7dc4b2bf621f8112b31f067296
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\39\391384204038486f8601f7419d700e8c
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\39\391384204038486f8601f7419d700e8c
-    projectPath: Library\Artifacts\39\391384204038486f8601f7419d700e8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\3b\3b779fecdb7668d96df7f9353a2b7753
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\3b\3b779fecdb7668d96df7f9353a2b7753
-    projectPath: Library\Artifacts\3b\3b779fecdb7668d96df7f9353a2b7753
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\3e\3e76fe6628ea46d899bcd589677f4e96
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\3e\3e76fe6628ea46d899bcd589677f4e96
-    projectPath: Library\Artifacts\3e\3e76fe6628ea46d899bcd589677f4e96
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
-    projectPath: Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
-    projectPath: Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\4d\4d88aef3bb90a3854a1677f1713d6284
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\4d\4d88aef3bb90a3854a1677f1713d6284
-    projectPath: Library\Artifacts\4d\4d88aef3bb90a3854a1677f1713d6284
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\4e\4ed6f068b4ba9014d6945efb71dd716a
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\4e\4ed6f068b4ba9014d6945efb71dd716a
-    projectPath: Library\Artifacts\4e\4ed6f068b4ba9014d6945efb71dd716a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\58\58e6449d736cefa1dc80d406ae111daf
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\58\58e6449d736cefa1dc80d406ae111daf
-    projectPath: Library\Artifacts\58\58e6449d736cefa1dc80d406ae111daf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\5a\5a92ea758a2113531b6f28737e2c2448
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\5a\5a92ea758a2113531b6f28737e2c2448
-    projectPath: Library\Artifacts\5a\5a92ea758a2113531b6f28737e2c2448
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\68\687be4296cae890b43d50d7470e3c0dd
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\68\687be4296cae890b43d50d7470e3c0dd
-    projectPath: Library\Artifacts\68\687be4296cae890b43d50d7470e3c0dd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    projectPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+  - path: SwifterThanSeaGame\Library\Artifacts\2e\2e56a8bcb714e958e18aafca10ce296b
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\2e\2e56a8bcb714e958e18aafca10ce296b
+    projectPath: Library\Artifacts\2e\2e56a8bcb714e958e18aafca10ce296b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
-    projectPath: Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
-    projectPath: Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\98\982fd0e88f3c71461119de49dfeb420c
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\98\982fd0e88f3c71461119de49dfeb420c
-    projectPath: Library\Artifacts\98\982fd0e88f3c71461119de49dfeb420c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\98\984d71f3318abd96245e33f513a07190
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\98\984d71f3318abd96245e33f513a07190
-    projectPath: Library\Artifacts\98\984d71f3318abd96245e33f513a07190
+  - path: SwifterThanSeaGame\Library\Artifacts\30\30ea70777a313c1d35fe9c70d1a15dc7
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\30\30ea70777a313c1d35fe9c70d1a15dc7
+    projectPath: Library\Artifacts\30\30ea70777a313c1d35fe9c70d1a15dc7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\9e\9ee3f41e16541ab2cf5ba37267cb5b87
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\9e\9ee3f41e16541ab2cf5ba37267cb5b87
-    projectPath: Library\Artifacts\9e\9ee3f41e16541ab2cf5ba37267cb5b87
+  - path: SwifterThanSeaGame\Library\Artifacts\32\321dc43fd2284346e90c901fab82c643
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\32\321dc43fd2284346e90c901fab82c643
+    projectPath: Library\Artifacts\32\321dc43fd2284346e90c901fab82c643
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\3f\3f21f070b41757158514cab76b613f3b
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\3f\3f21f070b41757158514cab76b613f3b
+    projectPath: Library\Artifacts\3f\3f21f070b41757158514cab76b613f3b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: SwifterThanSeaGame\Library\Artifacts\5b\5bbaaf4ddb3cddb9c556bca1b413f64f
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\5b\5bbaaf4ddb3cddb9c556bca1b413f64f
+    projectPath: Library\Artifacts\5b\5bbaaf4ddb3cddb9c556bca1b413f64f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\5b\5bdca27a23ffb252804d56a6331e5ef5
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\5b\5bdca27a23ffb252804d56a6331e5ef5
+    projectPath: Library\Artifacts\5b\5bdca27a23ffb252804d56a6331e5ef5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\7a\7a9bc33d6562a10d6c21447885240c06
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\7a\7a9bc33d6562a10d6c21447885240c06
+    projectPath: Library\Artifacts\7a\7a9bc33d6562a10d6c21447885240c06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\7f\7f9a01a02ed876a2082cba3fb9afa16b
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\7f\7f9a01a02ed876a2082cba3fb9afa16b
+    projectPath: Library\Artifacts\7f\7f9a01a02ed876a2082cba3fb9afa16b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\84\84c70517d44cb9a97ac6cafb3434f9e9
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\84\84c70517d44cb9a97ac6cafb3434f9e9
+    projectPath: Library\Artifacts\84\84c70517d44cb9a97ac6cafb3434f9e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\90\9001819c649c4a5d49373691b50dcfc6
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\90\9001819c649c4a5d49373691b50dcfc6
+    projectPath: Library\Artifacts\90\9001819c649c4a5d49373691b50dcfc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\95\957ee5eb094f40085ec86e26e24eef50
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\95\957ee5eb094f40085ec86e26e24eef50
+    projectPath: Library\Artifacts\95\957ee5eb094f40085ec86e26e24eef50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\96\960f875973abefecb6f13282f28dbb35
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\96\960f875973abefecb6f13282f28dbb35
+    projectPath: Library\Artifacts\96\960f875973abefecb6f13282f28dbb35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\98\98cd11d2fcaa3dc42de2085195a1dc8a
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\98\98cd11d2fcaa3dc42de2085195a1dc8a
+    projectPath: Library\Artifacts\98\98cd11d2fcaa3dc42de2085195a1dc8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\9d\9d894d343280bc8b9a57b847ed86d564
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\9d\9d894d343280bc8b9a57b847ed86d564
+    projectPath: Library\Artifacts\9d\9d894d343280bc8b9a57b847ed86d564
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
+    projectPath: Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\a2\a255ad63f129a6b385eca474ecb9439a
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\a2\a255ad63f129a6b385eca474ecb9439a
+    projectPath: Library\Artifacts\a2\a255ad63f129a6b385eca474ecb9439a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\a3\a352777ae9d3437069297f02f3590255
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\a3\a352777ae9d3437069297f02f3590255
+    projectPath: Library\Artifacts\a3\a352777ae9d3437069297f02f3590255
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SwifterThanSeaGame\Library\Artifacts\a6\a6f97fa4a2d715cedce9fb126531e4af
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\a6\a6f97fa4a2d715cedce9fb126531e4af
     projectPath: Library\Artifacts\a6\a6f97fa4a2d715cedce9fb126531e4af
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SwifterThanSeaGame\Library\Artifacts\b1\b1420e324260b20d9cd7c3539d1fd05a
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\b1\b1420e324260b20d9cd7c3539d1fd05a
+    projectPath: Library\Artifacts\b1\b1420e324260b20d9cd7c3539d1fd05a
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\c0\c02d6950dc8597282cf5208d4c923830
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\c0\c02d6950dc8597282cf5208d4c923830
-    projectPath: Library\Artifacts\c0\c02d6950dc8597282cf5208d4c923830
+  - path: SwifterThanSeaGame\Library\Artifacts\bb\bb859b8a8aa8b1e0d8d4f101f1545ddc
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\bb\bb859b8a8aa8b1e0d8d4f101f1545ddc
+    projectPath: Library\Artifacts\bb\bb859b8a8aa8b1e0d8d4f101f1545ddc
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\c7\c7f8a8466c828acf3eae213c3f0b6d2f
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\c7\c7f8a8466c828acf3eae213c3f0b6d2f
-    projectPath: Library\Artifacts\c7\c7f8a8466c828acf3eae213c3f0b6d2f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\d0\d0e8550f7afb750efffca76949f0b65b
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\d0\d0e8550f7afb750efffca76949f0b65b
-    projectPath: Library\Artifacts\d0\d0e8550f7afb750efffca76949f0b65b
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\c6\c62fdf1a278cf4892f8697d3ae1e7701
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\c6\c62fdf1a278cf4892f8697d3ae1e7701
+    projectPath: Library\Artifacts\c6\c62fdf1a278cf4892f8697d3ae1e7701
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -218,47 +363,29 @@ MonoBehaviour:
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\d5\d52080131ea1d4f5d210bc514ab294d8
     projectPath: Library\Artifacts\d5\d52080131ea1d4f5d210bc514ab294d8
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SwifterThanSeaGame\Library\Artifacts\de\de5b840b843bf60934310e9965ee1db2
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\de\de5b840b843bf60934310e9965ee1db2
+    projectPath: Library\Artifacts\de\de5b840b843bf60934310e9965ee1db2
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\Artifacts\d5\d580b2b770e0d5b9cf5a4f5c3acecbc7
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\d5\d580b2b770e0d5b9cf5a4f5c3acecbc7
-    projectPath: Library\Artifacts\d5\d580b2b770e0d5b9cf5a4f5c3acecbc7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\d8\d8c3b6fce43dc504c79074921ecade2b
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\d8\d8c3b6fce43dc504c79074921ecade2b
-    projectPath: Library\Artifacts\d8\d8c3b6fce43dc504c79074921ecade2b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\dd\dd6bd5eb67d279fec2b08affc6602849
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\dd\dd6bd5eb67d279fec2b08affc6602849
-    projectPath: Library\Artifacts\dd\dd6bd5eb67d279fec2b08affc6602849
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\e2\e206a2a58e749751df668a4c11539b8a
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\e2\e206a2a58e749751df668a4c11539b8a
-    projectPath: Library\Artifacts\e2\e206a2a58e749751df668a4c11539b8a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\e3\e37b606211c9fb5a37a7558b5a8dc06b
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\e3\e37b606211c9fb5a37a7558b5a8dc06b
-    projectPath: Library\Artifacts\e3\e37b606211c9fb5a37a7558b5a8dc06b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Library\Artifacts\e8\e833fbfc1f7e997e45be7280a61aa93f
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\e8\e833fbfc1f7e997e45be7280a61aa93f
-    projectPath: Library\Artifacts\e8\e833fbfc1f7e997e45be7280a61aa93f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: SwifterThanSeaGame\Library\Artifacts\eb\ebc063d7a87fa64175344d861762c20a
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\eb\ebc063d7a87fa64175344d861762c20a
     projectPath: Library\Artifacts\eb\ebc063d7a87fa64175344d861762c20a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SwifterThanSeaGame\Library\Artifacts\f8\f82504473fceda15340e97f6908c0e92
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\f8\f82504473fceda15340e97f6908c0e92
+    projectPath: Library\Artifacts\f8\f82504473fceda15340e97f6908c0e92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SwifterThanSeaGame\Library\Artifacts\fd\fd6ae6205c055567af7442ebabf69899
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Artifacts\fd\fd6ae6205c055567af7442ebabf69899
+    projectPath: Library\Artifacts\fd\fd6ae6205c055567af7442ebabf69899
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -316,33 +443,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Dropdown.cs
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Dropdown.cs
-    projectPath: Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Dropdown.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs
-    projectPath: Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\PackageCache\com.unity.ugui@1.0.0\Tests\Runtime\Dropdown\DropdownTests.cs
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\PackageCache\com.unity.ugui@1.0.0\Tests\Runtime\Dropdown\DropdownTests.cs
-    projectPath: Library\PackageCache\com.unity.ugui@1.0.0\Tests\Runtime\Dropdown\DropdownTests.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\PackageManager\ProjectCache
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\PackageManager\ProjectCache.md5
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
+  - path: SwifterThanSeaGame\Library\InspectorExpandedItems.asset
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -356,245 +459,11 @@ MonoBehaviour:
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ScriptMapper
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: SwifterThanSeaGame\Library\SourceAssetDB
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\SpriteAtlasDatabase.asset
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\SpriteAtlasDatabase.asset
-    projectPath: Library\SpriteAtlasDatabase.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -604,9 +473,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SwifterThanSeaGame\Library\Style.catalog
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\Style.catalog
-    projectPath: Library\Style.catalog
+  - path: SwifterThanSeaGame\Library\StateCache\SceneView\dc\dc185e0a56e66562ffd701b1cc5b972c.json
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\StateCache\SceneView\dc\dc185e0a56e66562ffd701b1cc5b972c.json
+    projectPath: Library\StateCache\SceneView\dc\dc185e0a56e66562ffd701b1cc5b972c.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -616,6 +485,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: SwifterThanSeaGame\Logs\AssetImportWorker0-prev.log
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SwifterThanSeaGame\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
@@ -628,48 +503,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SwifterThanSeaGame\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: SwifterThanSeaGame\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: SwifterThanSeaGame\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SwifterThanSeaGame\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\ProjectSettings\ProjectVersion.txt
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SwifterThanSeaGame\ProjectSettings\QualitySettings.asset
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SwifterThanSeaGame\Temp\__Backupscenes\0.backup
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: SwifterThanSeaGame\Temp\Assembly-CSharp.dll.hash
     fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
@@ -688,21 +539,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SwifterThanSeaGame\Temp\UnityTempFile-4ba315c84ce3a024ebf2135dd9114aa6
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Temp\UnityTempFile-4ba315c84ce3a024ebf2135dd9114aa6
-    projectPath: Temp\UnityTempFile-4ba315c84ce3a024ebf2135dd9114aa6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\Temp\UnityTempFile-7657a9df182c26e40b3269fba3a9adc3
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Temp\UnityTempFile-7657a9df182c26e40b3269fba3a9adc3
-    projectPath: Temp\UnityTempFile-7657a9df182c26e40b3269fba3a9adc3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SwifterThanSeaGame\Temp\UnityTempFile-cba8b8a5dc433044c8b18351c74ad7cc
-    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Temp\UnityTempFile-cba8b8a5dc433044c8b18351c74ad7cc
-    projectPath: Temp\UnityTempFile-cba8b8a5dc433044c8b18351c74ad7cc
+  - path: SwifterThanSeaGame\Temp\UnityTempFile-a54300f5a5b38cf4294cfd9a754f61c3
+    fullPath: D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Temp\UnityTempFile-a54300f5a5b38cf4294cfd9a754f61c3
+    projectPath: Temp\UnityTempFile-a54300f5a5b38cf4294cfd9a754f61c3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

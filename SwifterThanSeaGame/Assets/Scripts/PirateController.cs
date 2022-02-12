@@ -5,12 +5,41 @@ using UnityEngine;
 public class PirateController : MonoBehaviour
 {
     public float speed = 10f;
+    public Animator animator;
+    public KeyCode space;
+    public float horizontalMove = 0f;
 
     Vector2 lastClickedPos;
 
     bool moving;
+
+    private void Start()
+    {
+        animator = gameObject.GetComponent<Animator>();
+    }
+
     private void Update()
     {
+        /*  if (Input.GetKeyDown(KeyCode.Space))
+          {
+              animator.SetBool("Keydown", true);
+          }
+          else
+          {
+              animator.SetBool("Keydown", false);
+          }
+  */
+        if (this.animator.GetCurrentAnimatorStateInfo(0).IsName("Pirate Captain (Idle)"))
+        {
+            if (Input.GetKey(KeyCode.Space))
+                animator.SetTrigger("Shoot");
+            else
+            {
+                animator.SetTrigger("Idle");
+            }
+        }
+
+        animator.SetFloat("Speed", horizontalMove);
         if (Input.GetMouseButtonDown(1))
         {
             lastClickedPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -19,12 +48,14 @@ public class PirateController : MonoBehaviour
 
         if (moving && (Vector2)transform.position != lastClickedPos)
         {
+            horizontalMove = 1f;
             float step = speed * Time.deltaTime;
             transform.position = Vector2.MoveTowards(transform.position, lastClickedPos,
             step);
         }
         else
         {
+            horizontalMove = 0f;
             moving = false;
         }
     }
