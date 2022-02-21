@@ -29,15 +29,15 @@ public class PirateController : MonoBehaviour
               animator.SetBool("Keydown", false);
           }
   */
-        if (this.animator.GetCurrentAnimatorStateInfo(0).IsName("Pirate Captain (Idle)"))
-        {
+      //  if (this.animator.GetCurrentAnimatorStateInfo(0).IsName("Pirate Captain (Idle)"))
+     //   {
             if (Input.GetKey(KeyCode.Space))
                 animator.SetTrigger("Shoot");
-            else
+            else if (Input.GetKeyUp(KeyCode.Space)) 
             {
                 animator.SetTrigger("Idle");
             }
-        }
+     //   }
 
         animator.SetFloat("Speed", horizontalMove);
         if (Input.GetMouseButtonDown(1))
