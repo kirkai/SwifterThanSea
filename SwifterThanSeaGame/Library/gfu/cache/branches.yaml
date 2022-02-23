@@ -13,15 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-02-20T19:26:16.249-05:00
-  initializedAtString: 2022-02-20T18:19:37.025-05:00
+  lastUpdatedAtString: 2022-02-23T13:51:57.738-05:00
+  initializedAtString: 2022-02-23T13:48:54.141-05:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -46,15 +44,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - main
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/kirkai/SwifterThanSea.git
-        trackingBranch: 
-      - name: main
         remote:
           name: origin
           url: https://github.com/kirkai/SwifterThanSea.git

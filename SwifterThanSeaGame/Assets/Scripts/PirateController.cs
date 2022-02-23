@@ -20,6 +20,7 @@ public class PirateController : MonoBehaviour
 
     private void Update()
     {
+        
         /*  if (Input.GetKeyDown(KeyCode.Space))
           {
               animator.SetBool("Keydown", true);
