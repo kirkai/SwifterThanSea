@@ -1,0 +1,895 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.26f1 (7298b473bc1a) revision 7510196'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'en' Physical Memory: 16178 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Spring 2022/Game Engine Lab I/SwifterThanSea/SwifterThanSeaGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49578
+Successfully changed project path to: D:/Spring 2022/Game Engine Lab I/SwifterThanSea/SwifterThanSeaGame
+D:/Spring 2022/Game Engine Lab I/SwifterThanSea/SwifterThanSeaGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 356.17 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Spring 2022/Game Engine Lab I/SwifterThanSea/SwifterThanSeaGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 with Max-Q Design (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003662 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 253.31 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.321 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2321ms)
+		BeginReloadAssembly (224ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1872ms)
+			LoadAssemblies (215ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (496ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (142ms)
+			SetupLoadedEditorAssemblies (810ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (254ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (342ms)
+				ProcessInitializeOnLoadMethodAttributes (135ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.631761 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015E47ED5060 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4294B620 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47861CD0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46C77830 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47800050 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42970230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42DB1960 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42970230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42BFE9C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46E15230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42970230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46AEA020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42970230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42DB9970 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42970230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42BFE9C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46B76BC0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47800050 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E426A1240 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46CE2020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E426A1240 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47013020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E471CF010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46B29E40 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42BFE9C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47013020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47313020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47013020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46DC8440 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E473FA020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E469CB010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46E67E30 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42AB1970 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42663300 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47C29190 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46B4E040 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47313020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 144.04 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.223 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3225ms)
+		BeginReloadAssembly (410ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (2621ms)
+			LoadAssemblies (239ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (836ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (118ms)
+			SetupLoadedEditorAssemblies (1186ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (144ms)
+				BeforeProcessingInitializeOnLoad (280ms)
+				ProcessInitializeOnLoadAttributes (691ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 1.49 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2485 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.8 MB.
+System memory in use after: 105.9 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 2945.
+Total: 11.828800 ms (FindLiveObjects: 0.579000 ms CreateObjectMapping: 0.455100 ms MarkObjects: 10.619600 ms  DeleteObjects: 0.172100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/ship_0.asset
+  artifactKey: Guid(3bb1ebc27fe2c624592e587e3e5f491e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_0.asset using Guid(3bb1ebc27fe2c624592e587e3e5f491e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a1d018eff28a58a3e2e0b1ee79a7d8') in 0.948715 seconds 
+  Import took 0.971886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000840 seconds.
+  path: Assets/ship_22.asset
+  artifactKey: Guid(cb82375fe7463124e94179131e28fae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_22.asset using Guid(cb82375fe7463124e94179131e28fae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8672684307ee7fd19a836cea4408a2') in 0.105574 seconds 
+  Import took 0.120851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000940 seconds.
+  path: Assets/ship_7.asset
+  artifactKey: Guid(60389ffa36339f7419d854528620e0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_7.asset using Guid(60389ffa36339f7419d854528620e0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef09b3c72611731f64ae3810e48539a') in 0.048021 seconds 
+  Import took 0.060926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000900 seconds.
+  path: Assets/ship_26.asset
+  artifactKey: Guid(18b1fb60663a24e44a072c54aab6d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_26.asset using Guid(18b1fb60663a24e44a072c54aab6d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17f2c75bf4226f504e1880c40e4dded') in 0.129506 seconds 
+  Import took 0.140150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000798 seconds.
+  path: Assets/ship_30.asset
+  artifactKey: Guid(ff7c918e2b3c4974a9c38449bd5dd01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_30.asset using Guid(ff7c918e2b3c4974a9c38449bd5dd01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bcc5e2242972e3846d3071fefb6a48') in 0.128063 seconds 
+  Import took 0.137468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/ship_18.asset
+  artifactKey: Guid(e66e481fa1276424898f1256b2167a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_18.asset using Guid(e66e481fa1276424898f1256b2167a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a259d5ccdf7a21c5aed7562273d3e2') in 0.065198 seconds 
+  Import took 0.082435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000813 seconds.
+  path: Assets/ship_21.asset
+  artifactKey: Guid(019e20fb1ae8b4f4e86b98b26ba463b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_21.asset using Guid(019e20fb1ae8b4f4e86b98b26ba463b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b44a678e94c2cb953266a10a829f08') in 0.055114 seconds 
+  Import took 0.070184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/ship_27.asset
+  artifactKey: Guid(cb109d66a4cb69849b4dd174799b25f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_27.asset using Guid(cb109d66a4cb69849b4dd174799b25f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd147bdd2c2e91f0d9e303072979064d4') in 0.090768 seconds 
+  Import took 0.107211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000790 seconds.
+  path: Assets/ship_28.asset
+  artifactKey: Guid(2a297faf28ba33743819b2675f8f4808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_28.asset using Guid(2a297faf28ba33743819b2675f8f4808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f34661b4933098361df9b2e5768703a') in 0.041920 seconds 
+  Import took 0.055623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000789 seconds.
+  path: Assets/ship_6.asset
+  artifactKey: Guid(81ae6259ff5b6f34b9d7a0608f7517fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_6.asset using Guid(81ae6259ff5b6f34b9d7a0608f7517fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62ca350e7592bacb6e4dd69e5508927') in 0.063946 seconds 
+  Import took 0.078426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/ship_29.asset
+  artifactKey: Guid(22d5cf24da8954142aa211663956a1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_29.asset using Guid(22d5cf24da8954142aa211663956a1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08cf9aa1baf4269526199de23225e53') in 0.040081 seconds 
+  Import took 0.048897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/ship_5.asset
+  artifactKey: Guid(c556a0763f4222a49af652eb49e724f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_5.asset using Guid(c556a0763f4222a49af652eb49e724f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae50ccb049dafaa041b4a69a5e5e694b') in 0.175971 seconds 
+  Import took 0.185853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Assets/ship_3.asset
+  artifactKey: Guid(f40f14e5e770c6748a9796aa1f839ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_3.asset using Guid(f40f14e5e770c6748a9796aa1f839ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79cc286f31b759135c8bf077031af72') in 0.337430 seconds 
+  Import took 0.347239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/ship_2.asset
+  artifactKey: Guid(67341209fdcebd44cbbfcc16aadb9517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_2.asset using Guid(67341209fdcebd44cbbfcc16aadb9517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9157a368c74bd5834efcf57f3f0ca5df') in 0.032495 seconds 
+  Import took 0.041307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000903 seconds.
+  path: Assets/ship_31.asset
+  artifactKey: Guid(59821d74eb7668e41880acdc65fb5113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_31.asset using Guid(59821d74eb7668e41880acdc65fb5113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71627e9d04c882b5f7181517a1cf29a3') in 0.036966 seconds 
+  Import took 0.049197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/ship_14.asset
+  artifactKey: Guid(3533b7ffd61839646bdfc9961894cc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_14.asset using Guid(3533b7ffd61839646bdfc9961894cc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82510f5dd9f26bc2ffb132e0e963aab5') in 0.062344 seconds 
+  Import took 0.073457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000732 seconds.
+  path: Assets/ship_20.asset
+  artifactKey: Guid(6b2ba798e55a5784cb4e2ba659d8ab58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_20.asset using Guid(6b2ba798e55a5784cb4e2ba659d8ab58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8913c03c7b33172ef4b812a26564d88') in 0.046865 seconds 
+  Import took 0.059065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000778 seconds.
+  path: Assets/ship_9.asset
+  artifactKey: Guid(81ce85c425ba93741b183efa33205a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_9.asset using Guid(81ce85c425ba93741b183efa33205a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b359af19c2612e9dc744cb51adb749e') in 0.035736 seconds 
+  Import took 0.046589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/ship_10.asset
+  artifactKey: Guid(fcd125e32c897d14e806dc3cfd96c71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_10.asset using Guid(fcd125e32c897d14e806dc3cfd96c71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baaddc3fcca8d2c45c3f89da77b420ac') in 0.030187 seconds 
+  Import took 0.040383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/ship_36.asset
+  artifactKey: Guid(d43b45d85962e3445be84ef5106a9733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_36.asset using Guid(d43b45d85962e3445be84ef5106a9733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc466c994bf3ceb5c64c275c092a1421') in 0.068912 seconds 
+  Import took 0.076928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/ship_12.asset
+  artifactKey: Guid(57f9dc4979eca8944b61aae8d58941bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_12.asset using Guid(57f9dc4979eca8944b61aae8d58941bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27280ceda7bf9bf069824a73d323c5e') in 0.041263 seconds 
+  Import took 0.051816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000830 seconds.
+  path: Assets/ship_11.asset
+  artifactKey: Guid(d81e286b232c23946932d9150a7c4c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_11.asset using Guid(d81e286b232c23946932d9150a7c4c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c817cb66447bdbfa24d76b0804e24df') in 0.038986 seconds 
+  Import took 0.050257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000850 seconds.
+  path: Assets/ship_16.asset
+  artifactKey: Guid(9120de95801417c429a58efe38c45940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_16.asset using Guid(9120de95801417c429a58efe38c45940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3190beb2f3c7312e1110e246d42d9f2a') in 0.045905 seconds 
+  Import took 0.054867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000683 seconds.
+  path: Assets/ship_24.asset
+  artifactKey: Guid(09ddbe98d03632d448632f78669140ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_24.asset using Guid(09ddbe98d03632d448632f78669140ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1f4ec87eb02cd6843fae680ca789b3') in 0.066600 seconds 
+  Import took 0.080552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/ship_17.asset
+  artifactKey: Guid(46bdc3f8f50d52f41bbfea382e74696b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_17.asset using Guid(46bdc3f8f50d52f41bbfea382e74696b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb48b3a6a4986a68245a74e96b41829') in 0.063151 seconds 
+  Import took 0.073211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/ship_33.asset
+  artifactKey: Guid(77428d8aff3f3fa4ab6335f7675d9bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_33.asset using Guid(77428d8aff3f3fa4ab6335f7675d9bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f334b309258a5494ebbfc90f224b2a6d') in 0.029519 seconds 
+  Import took 0.036996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/ship_8.asset
+  artifactKey: Guid(3ef62f7ed8619ac42aedb7cd9cee8a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_8.asset using Guid(3ef62f7ed8619ac42aedb7cd9cee8a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593874a08a549063245e7f1aaefe8415') in 0.064286 seconds 
+  Import took 0.072001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/ship_13.asset
+  artifactKey: Guid(c3379a2e08f73544cae027e3c7c8bc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_13.asset using Guid(c3379a2e08f73544cae027e3c7c8bc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87c9c759e5697911f5e172c634b3747') in 0.046804 seconds 
+  Import took 0.056746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000807 seconds.
+  path: Assets/ship_15.asset
+  artifactKey: Guid(2d3a50bb87ecf7244a31deb995c5f9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_15.asset using Guid(2d3a50bb87ecf7244a31deb995c5f9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0330e35733f1da5139c42e922984f3') in 0.076947 seconds 
+  Import took 0.089288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000768 seconds.
+  path: Assets/ship_1.asset
+  artifactKey: Guid(64957507318ff25438a0964b835e348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_1.asset using Guid(64957507318ff25438a0964b835e348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c000bd045e1f3dd41d5e2c271615dba') in 0.041247 seconds 
+  Import took 0.053793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000786 seconds.
+  path: Assets/ship_34.asset
+  artifactKey: Guid(d27439d60eeed1e4a93ff648fc973f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_34.asset using Guid(d27439d60eeed1e4a93ff648fc973f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f90a526c9b3a6e01b9489d24dec1dd1') in 0.046943 seconds 
+  Import took 0.060184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000790 seconds.
+  path: Assets/ship_25.asset
+  artifactKey: Guid(cbddecac16cad7d4c8ca3ed68e0ac285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_25.asset using Guid(cbddecac16cad7d4c8ca3ed68e0ac285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4243aa8a0783e2ac4f8a003f355a7137') in 0.062162 seconds 
+  Import took 0.073193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000852 seconds.
+  path: Assets/ship_35.asset
+  artifactKey: Guid(faffc6956864cad4f9599dff04a8deda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_35.asset using Guid(faffc6956864cad4f9599dff04a8deda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d96869cef98c773a30d907da0a1d2d') in 0.066689 seconds 
+  Import took 0.078039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/ship_32.asset
+  artifactKey: Guid(efa613f0834d55d4b984db6451c2a909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_32.asset using Guid(efa613f0834d55d4b984db6451c2a909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a63a11211c3113cf40e8fd34dac0303') in 0.044920 seconds 
+  Import took 0.057620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000910 seconds.
+  path: Assets/ship_4.asset
+  artifactKey: Guid(f01bb68e2c3167241bf0e7cc1c78bf31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_4.asset using Guid(f01bb68e2c3167241bf0e7cc1c78bf31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527bd94d72840524898025dd2445c3f1') in 0.102798 seconds 
+  Import took 0.115832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000777 seconds.
+  path: Assets/ship_19.asset
+  artifactKey: Guid(1bb300eb681e5b747b18f1cfd5e44e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_19.asset using Guid(1bb300eb681e5b747b18f1cfd5e44e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c002b88313231e1be974be8421fb3e8c') in 0.042277 seconds 
+  Import took 0.055654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000862 seconds.
+  path: Assets/ship_23.asset
+  artifactKey: Guid(27643be426ff2ac449ababc2d94f525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ship_23.asset using Guid(27643be426ff2ac449ababc2d94f525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ddf5f308bd99375f10145a20e00fcb2') in 0.047232 seconds 
+  Import took 0.060945 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023753 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015E42DBB980 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4BA6C030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E426755D0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4785FCC0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46B43BE0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47C21180 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47370DD0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E473D6020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E427DF020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B8A5900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B9B6060 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4A460020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4785FCC0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47C21180 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47EC5040 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47EC5040 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4A471430 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47EC5040 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46CE2020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42FBFF00 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42546890 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E471CF010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E477A02E0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47859EC0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42BBE010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E48381020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42546890 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015FD5B33C00 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47C2F190 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47043010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B8A5900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4A218020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B8E99A0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42B53A70 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46B27830 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.101 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4103ms)
+		BeginReloadAssembly (398ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (24ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (146ms)
+		EndReloadAssembly (3433ms)
+			LoadAssemblies (390ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1419ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (231ms)
+			SetupLoadedEditorAssemblies (1060ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (247ms)
+				ProcessInitializeOnLoadAttributes (747ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.03 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2472 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2951.
+Total: 10.964700 ms (FindLiveObjects: 0.774200 ms CreateObjectMapping: 0.405600 ms MarkObjects: 9.692900 ms  DeleteObjects: 0.088700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023250 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015E47325040 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E472E4010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42677230 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42865900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B3EBC70 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E485E9020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C0888B0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E485E9020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C21F900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46B52260 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4A460020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B9794C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E485E9020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C21F900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C0997C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425CF020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C21F900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E469CB010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42FBFF00 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4268D020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E471CF010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47EA2E40 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B890020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47366030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E48000020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4268D020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015FD5B33C00 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47C0C830 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46C8E020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4A290030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015FFF813F60 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B8E9260 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C21F900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B9DAC70 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.29 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.709 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4711ms)
+		BeginReloadAssembly (429ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (27ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (147ms)
+		EndReloadAssembly (4034ms)
+			LoadAssemblies (406ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1447ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (245ms)
+			SetupLoadedEditorAssemblies (1451ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (410ms)
+				ProcessInitializeOnLoadAttributes (942ms)
+				ProcessInitializeOnLoadMethodAttributes (55ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.45 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2472 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2953.
+Total: 11.306900 ms (FindLiveObjects: 0.482700 ms CreateObjectMapping: 0.436800 ms MarkObjects: 10.300400 ms  DeleteObjects: 0.083800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.034400 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015E472D1920 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E474FF020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42677D40 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4785FCC0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42C64E80 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46DBF060 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C0888B0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E485E9020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B15C010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47E99010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C21F900 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C2E47A0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B21A8D0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4AAD1020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B15C010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E48754030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4BDC6CB0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E482D2030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E46D8A020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E42FBFF00 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4268D020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E471CF010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C542030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B890020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47366030 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E485E9020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4268D020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015FD5B33C00 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47C0C830 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E472E4010 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E49E5A020 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4779F470 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4B8E9D40 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E47858040 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E4C16CD70 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000015E425687C0 doesn't match image D:\Spring 2022\Game Engine Lab I\SwifterThanSea\SwifterThanSeaGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.42 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.112 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5114ms)
+		BeginReloadAssembly (497ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (35ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (184ms)
+		EndReloadAssembly (4330ms)
+			LoadAssemblies (488ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1576ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (308ms)
+			SetupLoadedEditorAssemblies (1497ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (368ms)
+				ProcessInitializeOnLoadAttributes (1037ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.25 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2472 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2955.
+Total: 12.750600 ms (FindLiveObjects: 0.870200 ms CreateObjectMapping: 0.640500 ms MarkObjects: 11.161900 ms  DeleteObjects: 0.074600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

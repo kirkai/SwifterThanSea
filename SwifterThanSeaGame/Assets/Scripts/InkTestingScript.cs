@@ -20,7 +20,7 @@ public class InkTestingScript : MonoBehaviour
         refreshUI();
 
     }
-    public void EnableText()
+/*    public void EnableText()
 
     {
 
@@ -28,7 +28,7 @@ public class InkTestingScript : MonoBehaviour
 
         timeWhenDisappear = Time.time + timeToAppear;
 
-    }
+    }*/
 
     void refreshUI()
     {
